@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 62dfc13f23bf6426fb55b6e06c64d020
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Abril Fatface
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 891d66e62337b4eb0a30832c61abd5b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
