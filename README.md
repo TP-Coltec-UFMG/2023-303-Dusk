@@ -10,6 +10,8 @@
 -> <a href="https://docs.google.com/spreadsheets/d/1RsMIRVbmeIPFARJsKHqsGKxOpeBTktCwb6hbYpWCxM0/edit#gid=0" target=_blank>Cronograma</a> <br>
 -> <a href="https://docs.google.com/document/d/1xX3RGnddl0zekc7iF63i_64icea7PLqaWeaDX4lX0lU/edit" target=_blank>Organização e Ideias</a><br>
 -> <a href="https://docs.google.com/document/d/1zT4ndzxPSvYztC1vMH6I-v4Z5vSIFPKWgnvQzloJpZY/edit" target=_blank>Roteiro</a><br>
+-> <a href="https://docs.google.com/document/d/1RZ_ua5HROKSYkIR1QPx_zYIoAhEXkRDDkocpV6SrMCA/edit#heading=h.l438tmcgjf58" target=_blank>Roteiro</a><br>
+
 
 ## Equipe<br> 
  <a href="https://github.com/arturgonzaga320" target=_blank>Artur Gonzaga</a>,
