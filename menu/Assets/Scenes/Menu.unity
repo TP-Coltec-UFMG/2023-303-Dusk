@@ -379,14 +379,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.34971163, g: 0.28155035, b: 0.5377358, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5a8006ca3af90446b86d011879b71ad8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 44cf2ede25767449cb31e0f8c270f24d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1137,8 +1137,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myFx: {fileID: 1476446089}
-  hoverFx: {fileID: 8300000, guid: b356a53d0d78d4354bedd7b49e1ce79e, type: 3}
-  clickFx: {fileID: 8300000, guid: 8d99de5699dfa42a69d896b043c617db, type: 3}
+  hoverFx: {fileID: 8300000, guid: a0b78afba00754a2fa861974b56f173d, type: 3}
+  clickFx: {fileID: 8300000, guid: bc99d33376afa4fb4b9cfe621008b102, type: 3}
 --- !u!82 &1476446089
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1578,8 +1578,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myFx: {fileID: 1990566810}
-  hoverFx: {fileID: 8300000, guid: b356a53d0d78d4354bedd7b49e1ce79e, type: 3}
-  clickFx: {fileID: 8300000, guid: 8d99de5699dfa42a69d896b043c617db, type: 3}
+  hoverFx: {fileID: 8300000, guid: 78e28dde9118c4e9a8387fc968b32918, type: 3}
+  clickFx: {fileID: 8300000, guid: bc99d33376afa4fb4b9cfe621008b102, type: 3}
 --- !u!114 &1990566812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1872,5 +1872,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myFx: {fileID: 1992703391}
-  hoverFx: {fileID: 8300000, guid: b356a53d0d78d4354bedd7b49e1ce79e, type: 3}
-  clickFx: {fileID: 8300000, guid: 8d99de5699dfa42a69d896b043c617db, type: 3}
+  hoverFx: {fileID: 8300000, guid: 682719738dca74c6d84596ab64f998d6, type: 3}
+  clickFx: {fileID: 8300000, guid: bc99d33376afa4fb4b9cfe621008b102, type: 3}

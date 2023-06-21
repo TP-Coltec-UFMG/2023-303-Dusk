@@ -15,12 +15,12 @@ public class MainMenu : MonoBehaviour, ISelectHandler
         StartCoroutine(DelaySceneLoad());
     }
     IEnumerator DelaySceneLoad()
- {
-     yield return new WaitForSeconds(1.0f);
-     SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
- }
+    {
+        yield return new WaitForSeconds(1.5f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
 
- public void OnSelect(BaseEventData eventData)
+    public void OnSelect(BaseEventData eventData)
     {
         myFx.PlayOneShot(hoverFx);
     }

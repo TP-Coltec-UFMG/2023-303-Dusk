@@ -9,16 +9,14 @@ public class BtnFx : MonoBehaviour, ISelectHandler{
     public AudioSource myFx;
     public AudioClip hoverFx;
     public AudioClip clickFx;
-    void Update()
+    void Update() // toca selected quando o botao eh pressionado
     {
         if(Input.GetKeyDown(KeyCode.Space)){
             myFx.PlayOneShot(clickFx);
         }
     }
 
-
-
-    public void OnSelect(BaseEventData eventData)
+    public void OnSelect(BaseEventData eventData) //toca som ao passar pelo botao
     {
         myFx.PlayOneShot(hoverFx);
     }

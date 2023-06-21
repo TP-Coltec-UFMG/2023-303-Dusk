@@ -15,11 +15,11 @@ public class Back : MonoBehaviour, ISelectHandler
         StartCoroutine(DelaySceneLoad());
     }
     IEnumerator DelaySceneLoad()
- {
-     yield return new WaitForSeconds(1.0f);
-     SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
- }
- public void OnSelect(BaseEventData eventData)
+    {
+        yield return new WaitForSeconds(1.5f); //mesma coisa
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+    }
+    public void OnSelect(BaseEventData eventData)
     {
         myFx.PlayOneShot(hoverFx);
     }
