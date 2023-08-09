@@ -19,3 +19,53 @@
  <a href="https://github.com/Nicolle-Oliveira" target=_blank>Nicolle Taila</a>,
  <a href="https://github.com/sophiaveneres" target=_blank>Sophia de Moura</a>,
  <a href="https://github.com/Thayrelan" target=_blank>Thayrelan Marçal</a>.
+
+
+## Tela Incial do Jogo
+
+![Menu](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/a910c0c1-badd-4743-9547-3c656e196397)
+
+<l> Menu inicial do jogo contendo as opções:
+<li> 'Play': Inicia o jogo.
+<li> 'Options': Acessa as opções do jogo, tais como ativação de acessibilidade e volume.
+<li> 'Quit': Sai do jogo.
+
+## Tela de Opções
+
+![Opcoes](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/6ec11cae-2940-4b45-b20e-2dcce080a5a3)
+
+<l> Controles de Acessibilidade e volume.
+<li> Acessibilidade: Legendas, Audios 3D e Daltonismo
+<li> Volume: Sons ambientes e música.
+
+## Tela de ínicio (play): Como o jogo começa. 
+
+![InicioDoJogo](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/5d4b2123-ddb7-4d99-849a-529d70981d65)
+
+## Tela de Pause:
+
+![TelaPause](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/0c49dc64-5c81-4cd3-b455-34b3ed50a9bb)
+
+## Poção encontrada no Mapa
+
+![PoçãoNoMapa](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/5a8cb339-160b-4f93-98e2-97aaf5d80c37)
+
+## Primeira poção coletada
+
+![PrimeiraPocaoColetada](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/62ce7672-1793-4c82-ab68-60a8ac2729a6)
+
+## Todas as poções coletadas
+
+![TodasAsPocoesColetada](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/8a7557ad-685d-41b6-945a-89a3356753af)
+
+## Tela Final
+
+![Final](https://github.com/Nicolle-Oliveira/2023-303-Dusk/assets/104602677/4b00c377-73f6-4349-aab5-a3dfad0d7bab)
+
+
+
+
+
+
+
+
